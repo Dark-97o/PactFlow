@@ -159,3 +159,5 @@ const Activity = (props) => (
 );
 
 export default DashboardLayout;
+
+// chore: organize project folder structure [v3.8.12-2026-05-01]
