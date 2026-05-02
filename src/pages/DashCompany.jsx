@@ -1212,3 +1212,5 @@ const DashCompany = () => {
 };
 
 export default DashCompany;
+
+// docs: add code comments to Firebase initialization [v8.4.30-2026-05-02]
