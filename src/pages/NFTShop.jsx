@@ -450,3 +450,5 @@ export default function NFTShop({ role }) {
     </div>
   );
 }
+
+// docs: update README with local setup instructions [v7.7.2-2026-05-04]
