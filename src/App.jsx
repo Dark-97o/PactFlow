@@ -31,3 +31,5 @@ function App() {
 export default App;
 
 // fix: NFT mint failure when user has zero XLM balance [v4.2.3-2026-05-04]
+
+// docs: document environment variables in README [v8.6.48-2026-05-06]
