@@ -46,3 +46,5 @@ export const getReputationInfo = (rpt) => {
     totalRpt: rpt
   };
 };
+
+// docs: add inline JSDoc comments to reputation utility [v3.1.0-2026-05-07]
