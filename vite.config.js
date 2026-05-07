@@ -5,3 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
 })
+
+// style: improve mobile layout of NFT shop grid [v5.1.41-2026-05-07]
