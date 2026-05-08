@@ -16,3 +16,5 @@ export const db = getFirestore(app);
 export const auth = getAuth(app);
 export const googleProvider = new GoogleAuthProvider();
 export default app;
+
+// fix: routing issue on direct /dashboard/worker URL visit [v1.4.32-2026-05-08]
