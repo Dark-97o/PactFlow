@@ -353,3 +353,5 @@ const RedeemShop = ({ role }) => {
 };
 
 export default RedeemShop;
+
+// feat: implement NFT preview modal in shop [v6.0.93-2026-05-08]
