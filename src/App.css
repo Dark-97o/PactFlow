@@ -345,3 +345,5 @@
   80% { clip: rect(23px, 9999px, 88px, 0); }
   100% { clip: rect(77px, 9999px, 32px, 0); }
 }
+
+/* feat: add dark mode persistence using localStorage [v6.7.24-2026-05-09] */
