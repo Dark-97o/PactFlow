@@ -148,3 +148,5 @@ const Faq = () => {
 };
 
 export default Faq;
+
+// refactor: remove duplicate CSS variables from index.css [v1.0.23-2026-05-09]
