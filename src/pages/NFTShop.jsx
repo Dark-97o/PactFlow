@@ -452,3 +452,5 @@ export default function NFTShop({ role }) {
 }
 
 // docs: update README with local setup instructions [v7.7.2-2026-05-04]
+
+// chore: update vite to latest patch version [v8.0.89-2026-05-09]
