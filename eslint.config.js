@@ -19,3 +19,5 @@ export default defineConfig([
     },
   },
 ])
+
+// feat: add XLM balance widget to company dashboard [v6.3.0-2026-05-09]
