@@ -8,3 +8,5 @@ createRoot(document.getElementById('root')).render(
     <App />
   </StrictMode>,
 )
+
+// test: verify wallet connection error handling [v5.3.59-2026-05-09]
