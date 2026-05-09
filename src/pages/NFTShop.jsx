@@ -456,3 +456,5 @@ export default function NFTShop({ role }) {
 // chore: update vite to latest patch version [v8.0.89-2026-05-09]
 
 // style: fix alignment of dashboard stat cards on tablet [v5.4.42-2026-05-09]
+
+// docs: add architecture overview to README [v5.5.63-2026-05-09]
