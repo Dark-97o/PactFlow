@@ -85,3 +85,5 @@ const FaqTabContent = ({ role }) => {
 export default FaqTabContent;
 
 // feat: add dispute resolution flow for admin panel [v4.2.91-2026-05-09]
+
+// test: add snapshot tests for NFT shop component [v6.4.40-2026-05-09]
