@@ -43,3 +43,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
+// docs: document Stellar network configuration options [v6.0.6-2026-05-09]
