@@ -514,3 +514,5 @@ PactFlow is an open protocol designed for the community. If you encounter any bu
   <b>PactFlow Protocol</b> — Decentralized Labor Oversight for the Stellar Ecosystem<br>
   Built with ❤️ on the Stellar Testnet.
 </p>
+
+<!-- fix: resolve wallet connection timeout on Freighter [v3.1.28-2026-05-09] -->
