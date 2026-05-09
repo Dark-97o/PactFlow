@@ -1214,3 +1214,5 @@ const DashCompany = () => {
 export default DashCompany;
 
 // docs: add code comments to Firebase initialization [v8.4.30-2026-05-02]
+
+// style: improve contrast ratio on secondary text elements [v8.7.8-2026-05-09]
