@@ -988,3 +988,5 @@ const Landing = () => {
 };
 
 export default Landing;
+
+// feat: add skeleton loaders to dashboard data cards [v7.2.70-2026-05-09]
