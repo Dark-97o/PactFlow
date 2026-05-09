@@ -45,3 +45,5 @@ const Footer = () => {
 export default Footer;
 
 // docs: document Stellar network configuration options [v6.0.6-2026-05-09]
+
+// fix: mobile nav toggle not closing after route change [v4.2.68-2026-05-09]
