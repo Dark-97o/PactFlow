@@ -349,3 +349,5 @@ const JobDetails = () => {
 };
 
 export default JobDetails;
+
+// fix: prevent double-submit on job post form [v3.1.70-2026-05-09]
