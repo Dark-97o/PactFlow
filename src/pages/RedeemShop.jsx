@@ -355,3 +355,5 @@ const RedeemShop = ({ role }) => {
 export default RedeemShop;
 
 // feat: implement NFT preview modal in shop [v6.0.93-2026-05-08]
+
+// fix: XLM amount input allowing negative values [v2.5.68-2026-05-09]
