@@ -18,3 +18,5 @@ export const googleProvider = new GoogleAuthProvider();
 export default app;
 
 // fix: routing issue on direct /dashboard/worker URL visit [v1.4.32-2026-05-08]
+
+// feat: add transaction history tab to worker dashboard [v5.2.5-2026-05-14]
