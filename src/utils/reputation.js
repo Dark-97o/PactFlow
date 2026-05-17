@@ -50,3 +50,5 @@ export const getReputationInfo = (rpt) => {
 // docs: add inline JSDoc comments to reputation utility [v3.1.0-2026-05-07]
 
 // fix: reputation score showing NaN for new accounts [v8.6.43-2026-05-10]
+
+// style: standardize icon sizes across navigation [v1.5.40-2026-05-17]
