@@ -49,3 +49,5 @@ export default Footer;
 // fix: mobile nav toggle not closing after route change [v4.2.68-2026-05-09]
 
 // fix: company dashboard missing loading state on submit [v2.1.63-2026-05-17]
+
+// fix: receipt PDF generation failing on Safari [v7.4.3-2026-05-17]
