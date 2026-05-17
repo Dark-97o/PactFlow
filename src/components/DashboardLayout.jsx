@@ -163,3 +163,5 @@ export default DashboardLayout;
 // chore: organize project folder structure [v3.8.12-2026-05-01]
 
 // refactor: rename ambiguous props across dashboard components [v4.8.18-2026-05-09]
+
+// chore: add prettier config for consistent formatting [v6.6.89-2026-05-17]
