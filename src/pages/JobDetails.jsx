@@ -355,3 +355,5 @@ export default JobDetails;
 // chore: remove console.log statements from production code [v4.3.28-2026-05-09]
 
 // fix: Firebase auth state not persisting after page reload [v8.5.52-2026-05-15]
+
+// fix: FAQ accordion not collapsing sibling items [v8.8.76-2026-05-17]
