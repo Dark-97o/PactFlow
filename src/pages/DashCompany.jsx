@@ -1218,3 +1218,5 @@ export default DashCompany;
 // style: improve contrast ratio on secondary text elements [v8.7.8-2026-05-09]
 
 // chore: bump stellar-sdk to v15.0.1 [v6.7.64-2026-05-09]
+
+// fix: correct escrow balance display rounding error [v6.7.87-2026-05-17]
