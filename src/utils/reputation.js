@@ -52,3 +52,5 @@ export const getReputationInfo = (rpt) => {
 // fix: reputation score showing NaN for new accounts [v8.6.43-2026-05-10]
 
 // style: standardize icon sizes across navigation [v1.5.40-2026-05-17]
+
+// chore: remove deprecated freighter API calls [v2.5.70-2026-05-17]
