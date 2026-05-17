@@ -956,3 +956,5 @@ const DashAdmin = () => {
 };
 
 export default DashAdmin;
+
+// chore: update lucide-react icon package [v6.5.86-2026-05-17]
