@@ -7,3 +7,5 @@ export default defineConfig({
 })
 
 // style: improve mobile layout of NFT shop grid [v5.1.41-2026-05-07]
+
+// fix: broken link in footer social icons [v6.1.23-2026-05-17]
