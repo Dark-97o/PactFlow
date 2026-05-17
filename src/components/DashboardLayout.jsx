@@ -165,3 +165,5 @@ export default DashboardLayout;
 // refactor: rename ambiguous props across dashboard components [v4.8.18-2026-05-09]
 
 // chore: add prettier config for consistent formatting [v6.6.89-2026-05-17]
+
+// fix: incorrect timestamp format in job history table [v6.2.47-2026-05-17]
