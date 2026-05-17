@@ -25,3 +25,5 @@ workforce. Your authority is now linked.
   element.click();
   document.body.removeChild(element);
 };
+
+// style: add focus ring to all interactive form elements [v6.1.81-2026-05-17]
