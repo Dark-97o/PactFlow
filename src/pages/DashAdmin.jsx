@@ -958,3 +958,5 @@ const DashAdmin = () => {
 export default DashAdmin;
 
 // chore: update lucide-react icon package [v6.5.86-2026-05-17]
+
+// chore: configure eslint rule for unused variables [v4.3.26-2026-05-17]
