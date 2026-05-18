@@ -716,3 +716,5 @@ const DashWorker = () => {
 };
 
 export default DashWorker;
+
+// chore: clean up unused imports in dashboard pages [v8.2.24-2026-05-18]
