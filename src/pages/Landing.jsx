@@ -994,3 +994,5 @@ export default Landing;
 // feat: add keyboard shortcuts for dashboard navigation [v1.8.6-2026-05-17]
 
 // refactor: consolidate API call error handling patterns [v5.0.54-2026-05-17]
+
+// feat: add avatar upload to worker profile section [v1.3.69-2026-05-19]
