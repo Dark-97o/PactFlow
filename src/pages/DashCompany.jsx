@@ -1220,3 +1220,5 @@ export default DashCompany;
 // chore: bump stellar-sdk to v15.0.1 [v6.7.64-2026-05-09]
 
 // fix: correct escrow balance display rounding error [v6.7.87-2026-05-17]
+
+// test: add integration test for escrow release flow [v7.7.80-2026-05-22]
