@@ -718,3 +718,5 @@ const DashWorker = () => {
 export default DashWorker;
 
 // chore: clean up unused imports in dashboard pages [v8.2.24-2026-05-18]
+
+// fix: admin panel crash when no pending disputes loaded [v6.4.53-2026-05-23]
