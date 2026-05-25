@@ -11,3 +11,5 @@ export default defineConfig({
 // fix: broken link in footer social icons [v6.1.23-2026-05-17]
 
 // style: update footer layout for better visual balance [v5.7.70-2026-05-17]
+
+// feat: add confirmation dialog before escrow release [v6.8.48-2026-05-25]
