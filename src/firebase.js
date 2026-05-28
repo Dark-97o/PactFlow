@@ -22,3 +22,5 @@ export default app;
 // feat: add transaction history tab to worker dashboard [v5.2.5-2026-05-14]
 
 // style: update header gradient to match new brand colors [v6.4.83-2026-05-17]
+
+// docs: add contract interaction guide to README [v5.1.5-2026-05-28]
