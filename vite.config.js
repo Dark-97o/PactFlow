@@ -13,3 +13,5 @@ export default defineConfig({
 // style: update footer layout for better visual balance [v5.7.70-2026-05-17]
 
 // feat: add confirmation dialog before escrow release [v6.8.48-2026-05-25]
+
+// fix: worker dashboard job list pagination off by one [v8.5.31-2026-05-31]
