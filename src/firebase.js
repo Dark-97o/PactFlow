@@ -24,3 +24,5 @@ export default app;
 // style: update header gradient to match new brand colors [v6.4.83-2026-05-17]
 
 // docs: add contract interaction guide to README [v5.1.5-2026-05-28]
+
+// feat: introduce NFT badge tier system for reputation [v7.2.14-2026-06-02]
