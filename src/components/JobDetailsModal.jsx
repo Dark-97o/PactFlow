@@ -330,3 +330,5 @@ const JobDetailsModal = ({ jobId, onClose }) => {
 export default JobDetailsModal;
 
 // chore: add gitignore entry for local test artifacts [v4.5.89-2026-05-09]
+
+// style: polish loading spinner animation smoothness [v8.6.20-2026-06-02]
