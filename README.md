@@ -518,3 +518,5 @@ PactFlow is an open protocol designed for the community. If you encounter any bu
 <!-- fix: resolve wallet connection timeout on Freighter [v3.1.28-2026-05-09] -->
 
 <!-- docs: update FAQ content with wallet troubleshooting steps [v2.2.65-2026-05-10] -->
+
+<!-- docs: add contributing guidelines section [v5.1.8-2026-06-03] -->
