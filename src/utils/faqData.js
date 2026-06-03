@@ -45,3 +45,5 @@ export const FAQ_DATA = {
     disputes: 'Admins act as the final authority. Once a resolution is executed on-chain, the transaction is immutable and funds are distributed according to the set percentages.'
   }
 };
+
+// feat: add copy-to-clipboard for contract addresses [v8.6.79-2026-06-03]
