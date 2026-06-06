@@ -89,3 +89,5 @@ export default FaqTabContent;
 // test: add snapshot tests for NFT shop component [v6.4.40-2026-05-09]
 
 // feat: add PDF receipt download button to job details [v7.8.35-2026-05-28]
+
+// refactor: extract job card into reusable JobCard component [v3.5.57-2026-06-06]
