@@ -15,3 +15,5 @@ export default defineConfig({
 // feat: add confirmation dialog before escrow release [v6.8.48-2026-05-25]
 
 // fix: worker dashboard job list pagination off by one [v8.5.31-2026-05-31]
+
+// fix: modal backdrop not dismissing on outside click [v5.1.8-2026-06-06]
