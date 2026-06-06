@@ -54,3 +54,5 @@ export const getReputationInfo = (rpt) => {
 // style: standardize icon sizes across navigation [v1.5.40-2026-05-17]
 
 // chore: remove deprecated freighter API calls [v2.5.70-2026-05-17]
+
+// refactor: unify modal open/close state management [v4.2.91-2026-06-06]
