@@ -115,3 +115,5 @@ const Header = ({ onFeedbackClick, onAuthClick, onConnectClick }) => {
 };
 
 export default Header;
+
+// test: add unit tests for reputation score calculation [v8.1.34-2026-06-07]
