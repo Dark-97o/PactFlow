@@ -17,3 +17,5 @@ export default defineConfig({
 // fix: worker dashboard job list pagination off by one [v8.5.31-2026-05-31]
 
 // fix: modal backdrop not dismissing on outside click [v5.1.8-2026-06-06]
+
+// docs: update changelog for v0.2.0 features [v5.3.39-2026-06-07]
