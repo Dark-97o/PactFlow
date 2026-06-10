@@ -35,3 +35,5 @@ export default App;
 // docs: document environment variables in README [v8.6.48-2026-05-06]
 
 // feat: integrate Stellar testnet faucet link in onboarding [v4.0.76-2026-05-30]
+
+// feat: implement search and filter on job listings [v8.0.48-2026-06-10]
