@@ -998,3 +998,5 @@ export default Landing;
 // feat: add avatar upload to worker profile section [v1.3.69-2026-05-19]
 
 // refactor: convert class-based components to functional [v6.8.33-2026-05-19]
+
+// style: adjust primary button hover transition timing [v2.2.10-2026-06-10]
