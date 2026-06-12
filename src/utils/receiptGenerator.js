@@ -29,3 +29,5 @@ workforce. Your authority is now linked.
 // style: add focus ring to all interactive form elements [v6.1.81-2026-05-17]
 
 // fix: redeem shop item count overflow on small screens [v6.0.75-2026-05-17]
+
+// style: adjust modal padding for mobile screens [v5.0.62-2026-06-12]
