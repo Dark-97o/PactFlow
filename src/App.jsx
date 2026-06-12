@@ -37,3 +37,5 @@ export default App;
 // feat: integrate Stellar testnet faucet link in onboarding [v4.0.76-2026-05-30]
 
 // feat: implement search and filter on job listings [v8.0.48-2026-06-10]
+
+// feat: show estimated gas fees before contract submission [v8.6.80-2026-06-12]
