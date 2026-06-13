@@ -51,3 +51,5 @@ export default Footer;
 // fix: company dashboard missing loading state on submit [v2.1.63-2026-05-17]
 
 // fix: receipt PDF generation failing on Safari [v7.4.3-2026-05-17]
+
+// fix: job status not updating after contract execution [v3.2.6-2026-06-13]
