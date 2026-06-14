@@ -167,3 +167,5 @@ export default DashboardLayout;
 // chore: add prettier config for consistent formatting [v6.6.89-2026-05-17]
 
 // fix: incorrect timestamp format in job history table [v6.2.47-2026-05-17]
+
+// refactor: split DashCompany into smaller sub-components [v2.3.62-2026-06-14]
