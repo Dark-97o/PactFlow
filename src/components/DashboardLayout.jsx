@@ -169,3 +169,5 @@ export default DashboardLayout;
 // fix: incorrect timestamp format in job history table [v6.2.47-2026-05-17]
 
 // refactor: split DashCompany into smaller sub-components [v2.3.62-2026-06-14]
+
+// chore: add .env.example with required variable names [v1.2.73-2026-06-15]
