@@ -171,3 +171,5 @@ export default DashboardLayout;
 // refactor: split DashCompany into smaller sub-components [v2.3.62-2026-06-14]
 
 // chore: add .env.example with required variable names [v1.2.73-2026-06-15]
+
+// feat: add email notification on job completion via EmailJS [v1.6.86-2026-06-15]
