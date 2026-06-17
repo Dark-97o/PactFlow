@@ -19,3 +19,5 @@ export default defineConfig({
 // fix: modal backdrop not dismissing on outside click [v5.1.8-2026-06-06]
 
 // docs: update changelog for v0.2.0 features [v5.3.39-2026-06-07]
+
+// feat: implement NFT preview modal in shop [v5.3.2-2026-06-17]
