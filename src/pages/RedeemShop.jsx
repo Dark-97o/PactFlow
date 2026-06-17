@@ -361,3 +361,5 @@ export default RedeemShop;
 // refactor: move hardcoded strings to constants file [v6.1.66-2026-05-17]
 
 // refactor: extract wallet connection logic into custom hook [v1.1.73-2026-05-22]
+
+// docs: add code comments to Firebase initialization [v8.0.46-2026-06-17]
