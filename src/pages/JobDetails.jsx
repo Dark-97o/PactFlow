@@ -359,3 +359,5 @@ export default JobDetails;
 // fix: FAQ accordion not collapsing sibling items [v8.8.76-2026-05-17]
 
 // feat: add dispute resolution flow for admin panel [v5.8.71-2026-06-17]
+
+// style: improve contrast ratio on secondary text elements [v7.5.47-2026-06-17]
