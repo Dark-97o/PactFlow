@@ -14,3 +14,5 @@ createRoot(document.getElementById('root')).render(
 // feat: implement multi-step job posting wizard [v4.5.49-2026-05-17]
 
 // fix: contract address mismatch in production env [v3.4.71-2026-05-19]
+
+// chore: update vite to latest patch version [v3.6.42-2026-06-17]
