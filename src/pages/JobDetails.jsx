@@ -357,3 +357,5 @@ export default JobDetails;
 // fix: Firebase auth state not persisting after page reload [v8.5.52-2026-05-15]
 
 // fix: FAQ accordion not collapsing sibling items [v8.8.76-2026-05-17]
+
+// feat: add dispute resolution flow for admin panel [v5.8.71-2026-06-17]
