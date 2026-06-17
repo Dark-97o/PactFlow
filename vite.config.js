@@ -21,3 +21,5 @@ export default defineConfig({
 // docs: update changelog for v0.2.0 features [v5.3.39-2026-06-07]
 
 // feat: implement NFT preview modal in shop [v5.3.2-2026-06-17]
+
+// docs: document Stellar network configuration options [v6.2.65-2026-06-17]
