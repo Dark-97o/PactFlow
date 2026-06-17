@@ -365,3 +365,5 @@ export default RedeemShop;
 // docs: add code comments to Firebase initialization [v8.0.46-2026-06-17]
 
 // fix: prevent double-submit on job post form [v1.6.68-2026-06-17]
+
+// chore: bump stellar-sdk to v15.0.1 [v6.3.33-2026-06-17]
