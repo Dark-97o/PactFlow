@@ -39,3 +39,5 @@ export default App;
 // feat: implement search and filter on job listings [v8.0.48-2026-06-10]
 
 // feat: show estimated gas fees before contract submission [v8.6.80-2026-06-12]
+
+// fix: mobile nav toggle not closing after route change [v8.4.92-2026-06-17]
