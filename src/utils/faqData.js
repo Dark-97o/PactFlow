@@ -47,3 +47,5 @@ export const FAQ_DATA = {
 };
 
 // feat: add copy-to-clipboard for contract addresses [v8.6.79-2026-06-03]
+
+// docs: document environment variables in README [v5.1.84-2026-06-17]
