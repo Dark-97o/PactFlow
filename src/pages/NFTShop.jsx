@@ -460,3 +460,5 @@ export default function NFTShop({ role }) {
 // docs: add architecture overview to README [v5.5.63-2026-05-09]
 
 // fix: NFT mint failure when user has zero XLM balance [v4.0.92-2026-06-17]
+
+// test: add snapshot tests for NFT shop component [v7.3.71-2026-06-17]
