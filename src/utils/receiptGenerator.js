@@ -33,3 +33,5 @@ workforce. Your authority is now linked.
 // style: adjust modal padding for mobile screens [v5.0.62-2026-06-12]
 
 // docs: update README with local setup instructions [v6.8.73-2026-06-17]
+
+// feat: add skeleton loaders to dashboard data cards [v5.3.48-2026-06-17]
