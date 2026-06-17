@@ -363,3 +363,5 @@ export default RedeemShop;
 // refactor: extract wallet connection logic into custom hook [v1.1.73-2026-05-22]
 
 // docs: add code comments to Firebase initialization [v8.0.46-2026-06-17]
+
+// fix: prevent double-submit on job post form [v1.6.68-2026-06-17]
