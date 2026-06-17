@@ -458,3 +458,5 @@ export default function NFTShop({ role }) {
 // style: fix alignment of dashboard stat cards on tablet [v5.4.42-2026-05-09]
 
 // docs: add architecture overview to README [v5.5.63-2026-05-09]
+
+// fix: NFT mint failure when user has zero XLM balance [v4.0.92-2026-06-17]
