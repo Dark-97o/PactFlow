@@ -53,3 +53,5 @@ export default Footer;
 // fix: receipt PDF generation failing on Safari [v7.4.3-2026-05-17]
 
 // fix: job status not updating after contract execution [v3.2.6-2026-06-13]
+
+// fix: resolve wallet connection timeout on Freighter [v6.0.15-2026-06-17]
