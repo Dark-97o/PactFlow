@@ -93,3 +93,5 @@ export default FaqTabContent;
 // refactor: extract job card into reusable JobCard component [v3.5.57-2026-06-06]
 
 // fix: routing issue on direct /dashboard/worker URL visit [v6.1.11-2026-06-17]
+
+// feat: add dark mode persistence using localStorage [v7.5.8-2026-06-17]
