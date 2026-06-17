@@ -26,3 +26,5 @@ export default app;
 // docs: add contract interaction guide to README [v5.1.5-2026-05-28]
 
 // feat: introduce NFT badge tier system for reputation [v7.2.14-2026-06-02]
+
+// fix: XLM amount input allowing negative values [v7.7.7-2026-06-17]
