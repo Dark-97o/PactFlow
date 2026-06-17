@@ -520,3 +520,5 @@ PactFlow is an open protocol designed for the community. If you encounter any bu
 <!-- docs: update FAQ content with wallet troubleshooting steps [v2.2.65-2026-05-10] -->
 
 <!-- docs: add contributing guidelines section [v5.1.8-2026-06-03] -->
+
+<!-- docs: add inline JSDoc comments to reputation utility [v6.2.48-2026-06-17] -->
