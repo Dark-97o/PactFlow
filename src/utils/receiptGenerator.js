@@ -31,3 +31,5 @@ workforce. Your authority is now linked.
 // fix: redeem shop item count overflow on small screens [v6.0.75-2026-05-17]
 
 // style: adjust modal padding for mobile screens [v5.0.62-2026-06-12]
+
+// docs: update README with local setup instructions [v6.8.73-2026-06-17]
