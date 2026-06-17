@@ -830,3 +830,5 @@ footer {
 /* refactor: remove duplicate CSS variables from index.css [v7.4.7-2026-06-17] */
 
 /* chore: remove console.log statements from production code [v7.8.0-2026-06-17] */
+
+/* chore: add gitignore entry for local test artifacts [v8.4.54-2026-06-17] */
