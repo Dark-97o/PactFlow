@@ -91,3 +91,5 @@ export default FaqTabContent;
 // feat: add PDF receipt download button to job details [v7.8.35-2026-05-28]
 
 // refactor: extract job card into reusable JobCard component [v3.5.57-2026-06-06]
+
+// fix: routing issue on direct /dashboard/worker URL visit [v6.1.11-2026-06-17]
