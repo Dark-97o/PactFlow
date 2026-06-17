@@ -828,3 +828,5 @@ footer {
 /* style: improve mobile layout of NFT shop grid [v3.2.11-2026-06-17] */
 
 /* refactor: remove duplicate CSS variables from index.css [v7.4.7-2026-06-17] */
+
+/* chore: remove console.log statements from production code [v7.8.0-2026-06-17] */
