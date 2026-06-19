@@ -55,3 +55,5 @@ export default Footer;
 // fix: job status not updating after contract execution [v3.2.6-2026-06-13]
 
 // fix: resolve wallet connection timeout on Freighter [v6.0.15-2026-06-17]
+
+// refactor: rename ambiguous props across dashboard components [v3.7.70-2026-06-19]
