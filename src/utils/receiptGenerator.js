@@ -35,3 +35,5 @@ workforce. Your authority is now linked.
 // docs: update README with local setup instructions [v6.8.73-2026-06-17]
 
 // feat: add skeleton loaders to dashboard data cards [v5.3.48-2026-06-17]
+
+// test: verify wallet connection error handling [v2.8.67-2026-06-19]
