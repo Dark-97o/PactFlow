@@ -28,3 +28,5 @@ export default app;
 // feat: introduce NFT badge tier system for reputation [v7.2.14-2026-06-02]
 
 // fix: XLM amount input allowing negative values [v7.7.7-2026-06-17]
+
+// docs: add architecture overview to README [v4.6.57-2026-06-19]
