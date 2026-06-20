@@ -95,3 +95,5 @@ export default FaqTabContent;
 // fix: routing issue on direct /dashboard/worker URL visit [v6.1.11-2026-06-17]
 
 // feat: add dark mode persistence using localStorage [v7.5.8-2026-06-17]
+
+// feat: add XLM balance widget to company dashboard [v6.8.64-2026-06-20]
