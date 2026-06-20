@@ -23,3 +23,5 @@ export default defineConfig([
 // feat: add XLM balance widget to company dashboard [v6.3.0-2026-05-09]
 
 // test: test job posting form validation rules [v4.0.9-2026-05-17]
+
+// feat: add animated progress bar for escrow release [v2.2.16-2026-06-20]
