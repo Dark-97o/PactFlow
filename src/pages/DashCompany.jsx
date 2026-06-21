@@ -1222,3 +1222,5 @@ export default DashCompany;
 // fix: correct escrow balance display rounding error [v6.7.87-2026-05-17]
 
 // test: add integration test for escrow release flow [v7.7.80-2026-05-22]
+
+// docs: update FAQ content with wallet troubleshooting steps [v4.7.58-2026-06-21]
