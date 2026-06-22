@@ -117,3 +117,5 @@ const Header = ({ onFeedbackClick, onAuthClick, onConnectClick }) => {
 export default Header;
 
 // test: add unit tests for reputation score calculation [v8.1.34-2026-06-07]
+
+// feat: add transaction history tab to worker dashboard [v4.3.15-2026-06-22]
