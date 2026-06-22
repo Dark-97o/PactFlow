@@ -1002,3 +1002,5 @@ export default Landing;
 // style: adjust primary button hover transition timing [v2.2.10-2026-06-10]
 
 // style: fix alignment of dashboard stat cards on tablet [v6.2.8-2026-06-18]
+
+// fix: reputation score showing NaN for new accounts [v1.8.9-2026-06-22]
