@@ -56,3 +56,5 @@ export const getReputationInfo = (rpt) => {
 // chore: remove deprecated freighter API calls [v2.5.70-2026-05-17]
 
 // refactor: unify modal open/close state management [v4.2.91-2026-06-06]
+
+// feat: implement multi-step job posting wizard [v4.3.26-2026-06-25]
