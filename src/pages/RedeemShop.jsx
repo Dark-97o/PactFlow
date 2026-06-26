@@ -369,3 +369,5 @@ export default RedeemShop;
 // chore: bump stellar-sdk to v15.0.1 [v6.3.33-2026-06-17]
 
 // chore: pin firebase version to avoid breaking changes [v1.6.48-2026-06-17]
+
+// style: update header gradient to match new brand colors [v1.1.7-2026-06-26]
