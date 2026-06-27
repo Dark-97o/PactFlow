@@ -722,3 +722,5 @@ export default DashWorker;
 // fix: admin panel crash when no pending disputes loaded [v6.4.53-2026-05-23]
 
 // feat: implement real-time job status updates via Firebase [v6.6.0-2026-06-05]
+
+// chore: update lucide-react icon package [v1.4.76-2026-06-27]
