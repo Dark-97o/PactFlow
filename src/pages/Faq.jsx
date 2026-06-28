@@ -152,3 +152,5 @@ export default Faq;
 // refactor: remove duplicate CSS variables from index.css [v1.0.23-2026-05-09]
 
 // refactor: simplify reputation calculation function [v5.4.11-2026-05-20]
+
+// fix: FAQ accordion not collapsing sibling items [v7.0.25-2026-06-28]
