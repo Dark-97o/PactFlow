@@ -397,7 +397,7 @@ const DashCompany = () => {
 
   const renderPostJob = () => (
     <div style={{ padding: '19px' }}>
-      <div className="cyber-card" style={{ padding: '30px', maxWidth: '800px', margin: '0 auto', border: '1px solid rgba(243, 243, 5, 0.2)' }}>
+      <div className="cyber-card" style={{ padding: '30px', maxWidth: '800px', margin: '0 auto', border: '1px solid rgba(255, 107, 0, 0.2)' }}>
         <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '25px', borderBottom: '1px solid var(--border-ghost)', paddingBottom: '15px' }}>
           <div>
             <h2 style={{ fontSize: '1.2rem', textTransform: 'uppercase', letterSpacing: '2px', margin: 0 }}>Initialize New Pact</h2>
@@ -471,7 +471,7 @@ const DashCompany = () => {
             />
           </div>
 
-          <div style={{ background: 'rgba(243, 243, 5, 0.02)', border: '1px solid rgba(243, 243, 5, 0.1)', padding: '19px', borderRadius: '4px' }}>
+          <div style={{ background: 'rgba(255, 107, 0, 0.02)', border: '1px solid rgba(255, 107, 0, 0.1)', padding: '19px', borderRadius: '4px' }}>
             <p style={{ fontSize: '0.75rem', color: 'var(--text-dim)', margin: 0, lineHeight: '1.4' }}>
               ℹ️ <strong>Note:</strong> Upon initialization, the specified bounty will be transferred to the 
               Escrow Smart Contract. Funds are only released upon your final approval or system resolution.
@@ -508,7 +508,7 @@ const DashCompany = () => {
         jobs.filter(j => j.status !== 'COMPLETED' && j.status !== 'DISPUTED' && j.status !== 'CANCELLED').map((job) => (
           <div key={job.id} className="cyber-card" style={{ 
             padding: '0', 
-            border: job.status === 'ACTIVE' ? '1px solid rgba(0, 255, 136, 0.2)' : '1px solid rgba(243, 243, 5, 0.1)',
+            border: job.status === 'ACTIVE' ? '1px solid rgba(0, 255, 136, 0.2)' : '1px solid rgba(255, 107, 0, 0.1)',
             background: 'linear-gradient(180deg, rgba(20,20,25,0.8) 0%, rgba(10,10,15,0.9) 100%)'
           }}>
             {/* Header Section */}
@@ -518,7 +518,7 @@ const DashCompany = () => {
               display: 'flex', 
               justifyContent: 'space-between', 
               alignItems: 'center',
-              background: job.status === 'ACTIVE' ? 'rgba(0, 255, 136, 0.03)' : 'rgba(243, 243, 5, 0.02)'
+              background: job.status === 'ACTIVE' ? 'rgba(0, 255, 136, 0.03)' : 'rgba(255, 107, 0, 0.02)'
             }}>
               <div style={{ flex: 1, cursor: 'pointer' }} onClick={() => setSelectedJobId(job.id)}>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '17px' }}>
@@ -526,9 +526,9 @@ const DashCompany = () => {
                   <div style={{ 
                     padding: '3px 12px', 
                     fontSize: '0.75rem', 
-                    background: job.status === 'ACTIVE' ? 'rgba(0, 255, 136, 0.1)' : 'rgba(243, 243, 5, 0.1)',
+                    background: job.status === 'ACTIVE' ? 'rgba(0, 255, 136, 0.1)' : 'rgba(255, 107, 0, 0.1)',
                     color: job.status === 'ACTIVE' ? '#00ff88' : 'var(--primary)',
-                    border: `1px solid ${job.status === 'ACTIVE' ? 'rgba(0, 255, 136, 0.3)' : 'rgba(243, 243, 5, 0.3)'}`,
+                    border: `1px solid ${job.status === 'ACTIVE' ? 'rgba(0, 255, 136, 0.3)' : 'rgba(255, 107, 0, 0.3)'}`,
                     textTransform: 'uppercase',
                     letterSpacing: '1.5px',
                     fontWeight: '900',
@@ -587,7 +587,7 @@ const DashCompany = () => {
                   <div style={{ display: 'flex', alignItems: 'center', gap: '17px', marginBottom: '25px' }}>
                     <Users size={18} color="var(--primary)" />
                     <span style={{ fontSize: '1rem', fontWeight: '900', letterSpacing: '2px', textTransform: 'uppercase', color: 'var(--primary)' }}>Candidate Registry</span>
-                    <div style={{ flex: 1, height: '1px', background: 'linear-gradient(90deg, rgba(243, 243, 5, 0.2), transparent)' }}></div>
+                    <div style={{ flex: 1, height: '1px', background: 'linear-gradient(90deg, rgba(255, 107, 0, 0.2), transparent)' }}></div>
                   </div>
 
                   <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
@@ -620,7 +620,7 @@ const DashCompany = () => {
                                   alignItems: 'center', 
                                   justifyContent: 'center',
                                   border: '2px solid #000',
-                                  boxShadow: '0 0 5px rgba(243, 243, 5, 0.4)'
+                                  boxShadow: '0 0 5px rgba(255, 107, 0, 0.4)'
                                 }}>
                                   <Shield size={8} color="#000" />
                                 </div>
@@ -694,7 +694,7 @@ const DashCompany = () => {
                       ))
                     ) : (
                       <div style={{ padding: '60px', textAlign: 'center', background: 'rgba(0,0,0,0.2)', border: '1px dashed rgba(255,255,255,0.05)', borderRadius: '4px' }}>
-                        <div style={{ display: 'inline-block', padding: '19px', borderRadius: '50%', background: 'rgba(243, 243, 5, 0.02)', marginBottom: '15px' }}>
+                        <div style={{ display: 'inline-block', padding: '19px', borderRadius: '50%', background: 'rgba(255, 107, 0, 0.02)', marginBottom: '15px' }}>
                           <Clock size={32} color="var(--primary)" style={{ opacity: 0.3 }} />
                         </div>
                         <div style={{ fontSize: '1rem', color: 'var(--text-dim)', letterSpacing: '2px', textTransform: 'uppercase' }}>Scanning Network for Candidates...</div>

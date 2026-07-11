@@ -43,7 +43,7 @@ const Header = ({ onFeedbackClick, onAuthClick, onConnectClick }) => {
           </div>
 
           {!isConnected && (
-            <div style={{ display: 'flex', gap: '15px', alignItems: 'center', background: 'rgba(243, 243, 5, 0.03)', padding: '4px 15px', border: '1px solid rgba(243, 243, 5, 0.2)', position: 'relative' }}>
+            <div style={{ display: 'flex', gap: '15px', alignItems: 'center', background: 'rgba(255, 107, 0, 0.03)', padding: '4px 15px', border: '1px solid rgba(255, 107, 0, 0.2)', position: 'relative' }}>
               <div style={{ fontSize: '0.8rem', color: 'var(--text-dim)', fontWeight: 'bold', letterSpacing: '1px' }}>
                 STATUS: <span style={{ color: '#ff4444' }}>OFFLINE</span>
               </div>
@@ -73,7 +73,7 @@ const Header = ({ onFeedbackClick, onAuthClick, onConnectClick }) => {
               alignItems: 'center', 
               background: 'rgba(255, 255, 255, 0.03)', 
               padding: '4px 4px 4px 15px', 
-              border: '1px solid rgba(243, 243, 5, 0.2)', 
+              border: '1px solid rgba(255, 107, 0, 0.2)', 
               position: 'relative',
               clipPath: 'polygon(0 0, 100% 0, 100% 100%, 10px 100%, 0 calc(100% - 10px))'
             }}>

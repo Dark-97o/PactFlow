@@ -405,7 +405,7 @@ const DashAdmin = () => {
                     width: '6px',
                     height: '6px',
                     borderRadius: '50%',
-                    background: contract.status === 'OPERATIONAL' ? 'var(--primary)' : contract.status === 'STANDBY' ? '#f3f30555' : '#444',
+                    background: contract.status === 'OPERATIONAL' ? 'var(--primary)' : contract.status === 'STANDBY' ? '#ff6b0055' : '#444',
                     boxShadow: contract.status === 'OPERATIONAL' ? '0 0 10px var(--primary)' : 'none'
                   }}></div>
                 </div>

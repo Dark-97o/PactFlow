@@ -113,7 +113,7 @@ const DashboardLayout = ({ children, role, activeTab, onTabChange }) => {
                   padding: '12px 15px',
                   cursor: 'pointer',
                   color: (item.id === activeTab) ? 'var(--primary)' : 'var(--text-dim)',
-                  background: (item.id === activeTab) ? 'rgba(243, 243, 5, 0.05)' : 'transparent',
+                  background: (item.id === activeTab) ? 'rgba(255, 107, 0, 0.05)' : 'transparent',
                   borderLeft: (item.id === activeTab) ? '3px solid var(--primary)' : '3px solid transparent',
                   transition: 'all 0.3s',
                   textTransform: 'uppercase',

@@ -227,8 +227,8 @@ const Landing = () => {
                         width: '100%', 
                         textAlign: 'left',
                         cursor: 'pointer',
-                        background: 'rgba(243, 243, 5, 0.05)',
-                        border: '1px solid rgba(243, 243, 5, 0.1)'
+                        background: 'rgba(255, 107, 0, 0.05)',
+                        border: '1px solid rgba(255, 107, 0, 0.1)'
                       }}
                     >
                       <div style={{ color: 'var(--primary)' }}>{w.icon}</div>
@@ -276,7 +276,7 @@ const Landing = () => {
                     </p>
                   </div>
                   {/* Decorative Scanline */}
-                  <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', background: 'linear-gradient(rgba(243, 243, 5, 0.05) 50%, transparent 50%)', backgroundSize: '100% 4px', pointerEvents: 'none' }}></div>
+                  <div style={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', background: 'linear-gradient(rgba(255, 107, 0, 0.05) 50%, transparent 50%)', backgroundSize: '100% 4px', pointerEvents: 'none' }}></div>
                 </div>
 
                 {/* Right Side: Form */}
@@ -328,7 +328,7 @@ const Landing = () => {
                         style={{
                           flex: 1,
                           padding: '10px',
-                          background: activeTab === role ? 'rgba(243, 243, 5, 0.1)' : 'transparent',
+                          background: activeTab === role ? 'rgba(255, 107, 0, 0.1)' : 'transparent',
                           border: activeTab === role ? '1px solid var(--primary)' : '1px solid var(--border-ghost)',
                           color: activeTab === role ? 'var(--primary)' : 'var(--text-dim)',
                           textTransform: 'uppercase',
@@ -389,7 +389,7 @@ const Landing = () => {
                           Your authority has been established on the Stellar network.
                         </p>
                         
-                        <div style={{ background: 'rgba(243, 243, 5, 0.05)', padding: '20px', border: '1px solid rgba(243, 243, 5, 0.2)', marginBottom: '30px', textAlign: 'left' }}>
+                        <div style={{ background: 'rgba(255, 107, 0, 0.05)', padding: '20px', border: '1px solid rgba(255, 107, 0, 0.2)', marginBottom: '30px', textAlign: 'left' }}>
                           <div style={{ fontSize: '0.6rem', color: 'var(--primary)', fontWeight: 'bold', marginBottom: '10px', textTransform: 'uppercase' }}>Transaction Proof</div>
                           <div style={{ fontSize: '0.7rem', color: '#fff', wordBreak: 'break-all', fontFamily: 'monospace', marginBottom: '15px' }}>{successTxHash}</div>
                           <a 
@@ -657,7 +657,7 @@ const Landing = () => {
                   alignItems: 'center', 
                   gap: '12px', 
                   marginBottom: '20px',
-                  background: 'rgba(243, 243, 5, 0.05)',
+                  background: 'rgba(255, 107, 0, 0.05)',
                   padding: '6px 15px',
                   borderLeft: '2px solid var(--primary)',
                   width: 'fit-content'
@@ -799,7 +799,7 @@ const Landing = () => {
                 <p style={{ color: 'var(--text-dim)', fontSize: '0.95rem', marginBottom: '30px', maxWidth: '400px' }}>
                   Institutional-grade security for the global talent economy via Soroban's smart contracts.
                 </p>
-                <div style={{ padding: '20px', background: 'rgba(243, 243, 5, 0.03)', borderLeft: '4px solid var(--primary)' }}>
+                <div style={{ padding: '20px', background: 'rgba(255, 107, 0, 0.03)', borderLeft: '4px solid var(--primary)' }}>
                   <Shield style={{ color: 'var(--primary)', marginBottom: '10px' }} size={20} />
                   <h4 style={{ color: '#fff', marginBottom: '5px', textTransform: 'uppercase', fontSize: '0.8rem' }}>On-Chain Verification</h4>
                   <p style={{ color: 'var(--text-dim)', fontSize: '0.75rem' }}>Automated validation of project deliverables against cryptographic benchmarks.</p>
@@ -873,7 +873,7 @@ const Landing = () => {
               left: '50px', 
               right: '50px', 
               height: '2px', 
-              background: 'rgba(243, 243, 5, 0.1)', 
+              background: 'rgba(255, 107, 0, 0.1)', 
               zIndex: 1 
             }}></div>
 
@@ -896,7 +896,7 @@ const Landing = () => {
                 padding: '30px 20px', 
                 textAlign: 'center',
                 background: 'rgba(0,0,0,0.8)',
-                border: '1px solid rgba(243, 243, 5, 0.1)',
+                border: '1px solid rgba(255, 107, 0, 0.1)',
                 transform: `translateY(${i % 2 === 0 ? '0' : '20px'})`,
                 transition: 'all 0.5s ease'
               }}>
@@ -904,13 +904,13 @@ const Landing = () => {
                   width: '60px', 
                   height: '60px', 
                   borderRadius: '50%', 
-                  background: 'rgba(243, 243, 5, 0.05)', 
+                  background: 'rgba(255, 107, 0, 0.05)', 
                   display: 'flex', 
                   alignItems: 'center', 
                   justifyContent: 'center', 
                   margin: '0 auto 20px',
                   border: '1px solid var(--primary)',
-                  boxShadow: '0 0 15px rgba(243, 243, 5, 0.2)'
+                  boxShadow: '0 0 15px rgba(255, 107, 0, 0.2)'
                 }}>
                   <div style={{ color: 'var(--primary)' }}>{step.icon}</div>
                 </div>
