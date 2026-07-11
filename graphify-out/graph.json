@@ -1,0 +1,634 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "eslint.config.js",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\eslint.config.js",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_eslint_config_js",
+      "community": 9,
+      "norm_label": "eslint.config.js"
+    },
+    {
+      "label": "vite.config.js",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\vite.config.js",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_vite_config_js",
+      "community": 10,
+      "norm_label": "vite.config.js"
+    },
+    {
+      "label": "lib.rs",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\DeadDrop\\src\\lib.rs",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_deaddrop_src_lib_rs",
+      "community": 2,
+      "norm_label": "lib.rs"
+    },
+    {
+      "label": "Contract",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\Registry\\src\\lib.rs",
+      "source_location": "L5",
+      "id": "lib_contract",
+      "community": 2,
+      "norm_label": "contract"
+    },
+    {
+      "label": ".hello()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\Registry\\src\\lib.rs",
+      "source_location": "L18",
+      "id": "lib_contract_hello",
+      "community": 0,
+      "norm_label": ".hello()"
+    },
+    {
+      "label": "test.rs",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\DeadDrop\\src\\test.rs",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_deaddrop_src_test_rs",
+      "community": 0,
+      "norm_label": "test.rs"
+    },
+    {
+      "label": "test()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\Registry\\src\\test.rs",
+      "source_location": "L7",
+      "id": "test_test",
+      "community": 0,
+      "norm_label": "test()"
+    },
+    {
+      "label": "lib.rs",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\EscrowVault\\src\\lib.rs",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_escrowvault_src_lib_rs",
+      "community": 2,
+      "norm_label": "lib.rs"
+    },
+    {
+      "label": "test.rs",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\EscrowVault\\src\\test.rs",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_escrowvault_src_test_rs",
+      "community": 0,
+      "norm_label": "test.rs"
+    },
+    {
+      "label": "lib.rs",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\NFTMarketplace\\src\\lib.rs",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_nftmarketplace_src_lib_rs",
+      "community": 2,
+      "norm_label": "lib.rs"
+    },
+    {
+      "label": "test.rs",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\NFTMarketplace\\src\\test.rs",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_nftmarketplace_src_test_rs",
+      "community": 0,
+      "norm_label": "test.rs"
+    },
+    {
+      "label": "lib.rs",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\ProofWork\\src\\lib.rs",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_proofwork_src_lib_rs",
+      "community": 2,
+      "norm_label": "lib.rs"
+    },
+    {
+      "label": "test.rs",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\ProofWork\\src\\test.rs",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_proofwork_src_test_rs",
+      "community": 0,
+      "norm_label": "test.rs"
+    },
+    {
+      "label": "lib.rs",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\Registry\\src\\lib.rs",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_registry_src_lib_rs",
+      "community": 2,
+      "norm_label": "lib.rs"
+    },
+    {
+      "label": "test.rs",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\Registry\\src\\test.rs",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_registry_src_test_rs",
+      "community": 0,
+      "norm_label": "test.rs"
+    },
+    {
+      "label": "App.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\App.jsx",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_app_jsx",
+      "community": 4,
+      "norm_label": "app.jsx"
+    },
+    {
+      "label": "App()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\App.jsx",
+      "source_location": "L11",
+      "id": "app_app",
+      "community": 4,
+      "norm_label": "app()"
+    },
+    {
+      "label": "main.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\main.jsx",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_main_jsx",
+      "community": 11,
+      "norm_label": "main.jsx"
+    },
+    {
+      "label": "DashboardLayout.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\components\\DashboardLayout.jsx",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_components_dashboardlayout_jsx",
+      "community": 3,
+      "norm_label": "dashboardlayout.jsx"
+    },
+    {
+      "label": "DashboardLayout()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\components\\DashboardLayout.jsx",
+      "source_location": "L6",
+      "id": "dashboardlayout_dashboardlayout",
+      "community": 3,
+      "norm_label": "dashboardlayout()"
+    },
+    {
+      "label": "Activity()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\components\\DashboardLayout.jsx",
+      "source_location": "L101",
+      "id": "dashboardlayout_activity",
+      "community": 3,
+      "norm_label": "activity()"
+    },
+    {
+      "label": "Footer.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\components\\Footer.jsx",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_components_footer_jsx",
+      "community": 5,
+      "norm_label": "footer.jsx"
+    },
+    {
+      "label": "Footer()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\components\\Footer.jsx",
+      "source_location": "L4",
+      "id": "footer_footer",
+      "community": 5,
+      "norm_label": "footer()"
+    },
+    {
+      "label": "Header.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\components\\Header.jsx",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_components_header_jsx",
+      "community": 1,
+      "norm_label": "header.jsx"
+    },
+    {
+      "label": "Header()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\components\\Header.jsx",
+      "source_location": "L3",
+      "id": "header_header",
+      "community": 1,
+      "norm_label": "header()"
+    },
+    {
+      "label": "WalletContext.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\context\\WalletContext.jsx",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_context_walletcontext_jsx",
+      "community": 1,
+      "norm_label": "walletcontext.jsx"
+    },
+    {
+      "label": "useWallet()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\context\\WalletContext.jsx",
+      "source_location": "L6",
+      "id": "walletcontext_usewallet",
+      "community": 1,
+      "norm_label": "usewallet()"
+    },
+    {
+      "label": "WalletProvider()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\context\\WalletContext.jsx",
+      "source_location": "L8",
+      "id": "walletcontext_walletprovider",
+      "community": 1,
+      "norm_label": "walletprovider()"
+    },
+    {
+      "label": "DashAdmin.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\pages\\DashAdmin.jsx",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_pages_dashadmin_jsx",
+      "community": 6,
+      "norm_label": "dashadmin.jsx"
+    },
+    {
+      "label": "DashAdmin()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\pages\\DashAdmin.jsx",
+      "source_location": "L5",
+      "id": "dashadmin_dashadmin",
+      "community": 6,
+      "norm_label": "dashadmin()"
+    },
+    {
+      "label": "DashCompany.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\pages\\DashCompany.jsx",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_pages_dashcompany_jsx",
+      "community": 7,
+      "norm_label": "dashcompany.jsx"
+    },
+    {
+      "label": "DashCompany()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\pages\\DashCompany.jsx",
+      "source_location": "L5",
+      "id": "dashcompany_dashcompany",
+      "community": 7,
+      "norm_label": "dashcompany()"
+    },
+    {
+      "label": "DashWorker.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\pages\\DashWorker.jsx",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_pages_dashworker_jsx",
+      "community": 8,
+      "norm_label": "dashworker.jsx"
+    },
+    {
+      "label": "DashWorker()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\pages\\DashWorker.jsx",
+      "source_location": "L5",
+      "id": "dashworker_dashworker",
+      "community": 8,
+      "norm_label": "dashworker()"
+    },
+    {
+      "label": "Landing.jsx",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\pages\\Landing.jsx",
+      "source_location": "L1",
+      "id": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_pages_landing_jsx",
+      "community": 1,
+      "norm_label": "landing.jsx"
+    },
+    {
+      "label": "Landing()",
+      "file_type": "code",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\pages\\Landing.jsx",
+      "source_location": "L7",
+      "id": "landing_landing",
+      "community": 1,
+      "norm_label": "landing()"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\DeadDrop\\src\\lib.rs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_deaddrop_src_lib_rs",
+      "_tgt": "lib_contract",
+      "source": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_deaddrop_src_lib_rs",
+      "target": "lib_contract",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\Registry\\src\\lib.rs",
+      "source_location": "L18",
+      "weight": 1.0,
+      "_src": "lib_contract",
+      "_tgt": "lib_contract_hello",
+      "source": "lib_contract",
+      "target": "lib_contract_hello",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\EscrowVault\\src\\lib.rs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_escrowvault_src_lib_rs",
+      "_tgt": "lib_contract",
+      "source": "lib_contract",
+      "target": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_escrowvault_src_lib_rs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\NFTMarketplace\\src\\lib.rs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_nftmarketplace_src_lib_rs",
+      "_tgt": "lib_contract",
+      "source": "lib_contract",
+      "target": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_nftmarketplace_src_lib_rs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\ProofWork\\src\\lib.rs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_proofwork_src_lib_rs",
+      "_tgt": "lib_contract",
+      "source": "lib_contract",
+      "target": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_proofwork_src_lib_rs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\Registry\\src\\lib.rs",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_registry_src_lib_rs",
+      "_tgt": "lib_contract",
+      "source": "lib_contract",
+      "target": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_registry_src_lib_rs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\DeadDrop\\src\\test.rs",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_src": "test_test",
+      "_tgt": "lib_contract_hello",
+      "source": "lib_contract_hello",
+      "target": "test_test"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\DeadDrop\\src\\test.rs",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_deaddrop_src_test_rs",
+      "_tgt": "test_test",
+      "source": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_deaddrop_src_test_rs",
+      "target": "test_test",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\EscrowVault\\src\\test.rs",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_escrowvault_src_test_rs",
+      "_tgt": "test_test",
+      "source": "test_test",
+      "target": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_escrowvault_src_test_rs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\NFTMarketplace\\src\\test.rs",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_nftmarketplace_src_test_rs",
+      "_tgt": "test_test",
+      "source": "test_test",
+      "target": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_nftmarketplace_src_test_rs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\ProofWork\\src\\test.rs",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_proofwork_src_test_rs",
+      "_tgt": "test_test",
+      "source": "test_test",
+      "target": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_proofwork_src_test_rs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\SmartContract\\contracts\\Registry\\src\\test.rs",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_registry_src_test_rs",
+      "_tgt": "test_test",
+      "source": "test_test",
+      "target": "c_users_subhr_onedrive_documents_programs_github_pactflow_smartcontract_contracts_registry_src_test_rs",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\App.jsx",
+      "source_location": "L11",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_app_jsx",
+      "_tgt": "app_app",
+      "source": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_app_jsx",
+      "target": "app_app",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\components\\DashboardLayout.jsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_components_dashboardlayout_jsx",
+      "_tgt": "dashboardlayout_dashboardlayout",
+      "source": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_components_dashboardlayout_jsx",
+      "target": "dashboardlayout_dashboardlayout",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\components\\DashboardLayout.jsx",
+      "source_location": "L101",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_components_dashboardlayout_jsx",
+      "_tgt": "dashboardlayout_activity",
+      "source": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_components_dashboardlayout_jsx",
+      "target": "dashboardlayout_activity",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\components\\Footer.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_components_footer_jsx",
+      "_tgt": "footer_footer",
+      "source": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_components_footer_jsx",
+      "target": "footer_footer",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\components\\Header.jsx",
+      "source_location": "L3",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_components_header_jsx",
+      "_tgt": "header_header",
+      "source": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_components_header_jsx",
+      "target": "header_header",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\components\\Header.jsx",
+      "source_location": "L4",
+      "weight": 1.0,
+      "_src": "header_header",
+      "_tgt": "walletcontext_usewallet",
+      "source": "header_header",
+      "target": "walletcontext_usewallet"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\context\\WalletContext.jsx",
+      "source_location": "L6",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_context_walletcontext_jsx",
+      "_tgt": "walletcontext_usewallet",
+      "source": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_context_walletcontext_jsx",
+      "target": "walletcontext_usewallet",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\context\\WalletContext.jsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_context_walletcontext_jsx",
+      "_tgt": "walletcontext_walletprovider",
+      "source": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_context_walletcontext_jsx",
+      "target": "walletcontext_walletprovider",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\pages\\Landing.jsx",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_src": "landing_landing",
+      "_tgt": "walletcontext_usewallet",
+      "source": "walletcontext_usewallet",
+      "target": "landing_landing"
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\pages\\DashAdmin.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_pages_dashadmin_jsx",
+      "_tgt": "dashadmin_dashadmin",
+      "source": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_pages_dashadmin_jsx",
+      "target": "dashadmin_dashadmin",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\pages\\DashCompany.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_pages_dashcompany_jsx",
+      "_tgt": "dashcompany_dashcompany",
+      "source": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_pages_dashcompany_jsx",
+      "target": "dashcompany_dashcompany",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\pages\\DashWorker.jsx",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_pages_dashworker_jsx",
+      "_tgt": "dashworker_dashworker",
+      "source": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_pages_dashworker_jsx",
+      "target": "dashworker_dashworker",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "C:\\Users\\subhr\\OneDrive\\Documents\\Programs\\GitHub\\PactFlow\\src\\pages\\Landing.jsx",
+      "source_location": "L7",
+      "weight": 1.0,
+      "_src": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_pages_landing_jsx",
+      "_tgt": "landing_landing",
+      "source": "c_users_subhr_onedrive_documents_programs_github_pactflow_src_pages_landing_jsx",
+      "target": "landing_landing",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
