@@ -14,6 +14,7 @@ const Header = ({ onFeedbackClick, onAuthClick, onConnectClick }) => {
           <img 
             src="/assets/img/pactflow.png" 
             alt="PactFlow Logo" 
+            className="pactflow-logo"
             style={{ height: '40px', width: 'auto' }} 
           />
         </div>

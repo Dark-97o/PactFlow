@@ -9,6 +9,7 @@ const Footer = () => {
           <img 
             src="/assets/img/pactflow.png" 
             alt="PactFlow Logo" 
+            className="pactflow-logo"
             style={{ height: '30px', width: 'auto', marginBottom: '20px' }} 
           />
           <p style={{ fontSize: '0.85rem', color: 'var(--text-dim)', marginBottom: '15px' }}>© 2026 PactFlow. <br/>All rights reserved.</p>
